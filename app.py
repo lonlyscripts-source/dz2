@@ -76,5 +76,4 @@ with tab3:
         st.markdown("""
                     * ❤️ [Steam](https://store.steampowered.com) - багато ігор
                     * ⛏️ [Minecraft](https://www.minecraft.net/ru-ru) - майнкрафт
-                    * ⛏️ [Minecraft](https://www.minecraft.net/ru-ru) - майнкрафт
                     """)
